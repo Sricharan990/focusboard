@@ -236,13 +236,13 @@ function useLocalStorage(key, initialValue) {
 
 ## Hosted Application URL
 
-> 🔗 **[Add your deployed URL here — e.g., https://focusboard.vercel.app]**
+> 🔗 https://focusboard-xi-ebon.vercel.app
 
 ---
 
 ## GitHub Repository URL
 
-> 🔗 **https://github.com/Sricharan990/focusboard.git**
+> 🔗 https://github.com/Sricharan990/focusboard.git
 
 ---
 
